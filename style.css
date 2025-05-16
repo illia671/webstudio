@@ -1,10 +1,5 @@
-.Web-List{
-    display: flex;
-    width: 135;
-    height: 16;
-    top: 32px;
-    left: 1078px;
-}
-.Web-title{
-    margin-left: 215px;
+:root{
+    --darck:#2F303A ;
+    --border: #ECECEC;
+    --gray:#F5F4FA ;
 }
